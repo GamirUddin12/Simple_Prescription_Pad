@@ -1,0 +1,33 @@
+C:\Users\Jamir\AppData\Local\Temporary Projects\Simple prescription\bin\Debug\Simple prescription.exe
+C:\Users\Jamir\AppData\Local\Temporary Projects\Simple prescription\bin\Debug\Simple prescription.pdb
+C:\Users\Jamir\AppData\Local\Temporary Projects\Simple prescription\obj\x86\Debug\Simple_prescription.Form1.resources
+C:\Users\Jamir\AppData\Local\Temporary Projects\Simple prescription\obj\x86\Debug\Simple_prescription.Properties.Resources.resources
+C:\Users\Jamir\AppData\Local\Temporary Projects\Simple prescription\obj\x86\Debug\Simple prescription.csproj.GenerateResource.Cache
+C:\Users\Jamir\AppData\Local\Temporary Projects\Simple prescription\obj\x86\Debug\Simple prescription.exe
+C:\Users\Jamir\AppData\Local\Temporary Projects\Simple prescription\obj\x86\Debug\Simple prescription.pdb
+E:\Csharp\Form\one click prescription\Simple prescription\Simple prescription\obj\x86\Debug\Simple prescription.exe
+E:\Csharp\Form\one click prescription\Simple prescription\Simple prescription\obj\x86\Debug\Simple prescription.pdb
+E:\Csharp\Form\one click prescription\Simple prescription\Simple prescription\bin\Debug\Simple prescription.exe
+E:\Csharp\Form\one click prescription\Simple prescription\Simple prescription\bin\Debug\Simple prescription.pdb
+E:\Csharp\Form\one click prescription\Simple prescription\Simple prescription\obj\x86\Debug\Simple_prescription.Form1.resources
+E:\Csharp\Form\one click prescription\Simple prescription\Simple prescription\obj\x86\Debug\Simple_prescription.Properties.Resources.resources
+E:\Csharp\Form\one click prescription\Simple prescription\Simple prescription\obj\x86\Debug\Simple prescription.csproj.GenerateResource.Cache
+E:\Csharp\Form\one click prescription\Simple prescription\Simple prescription\obj\x86\Debug\Simple prescription.csprojResolveAssemblyReference.cache
+E:\Csharp\Form\one click prescription\Simple prescription\Simple prescription\bin\Debug\simple_prescription.mdf
+E:\Csharp\Form\one click prescription\Simple prescription\Simple prescription\bin\Debug\simple_prescription_log.ldf
+E:\Csharp\Form\one click prescription\Simple prescription\Simple prescription\bin\Debug\Simple prescription.exe.config
+E:\Csharp\Form\Simple prescription\Simple prescription\bin\Debug\Simple prescription.exe.config
+E:\Csharp\Form\Simple prescription\Simple prescription\obj\x86\Debug\Simple prescription.exe
+E:\Csharp\Form\Simple prescription\Simple prescription\obj\x86\Debug\Simple prescription.pdb
+E:\Csharp\Form\Simple prescription\Simple prescription\bin\Debug\simple_prescription.mdf
+E:\Csharp\Form\Simple prescription\Simple prescription\bin\Debug\simple_prescription_log.ldf
+E:\Csharp\Form\Simple prescription\Simple prescription\bin\Debug\Simple prescription.exe
+E:\Csharp\Form\Simple prescription\Simple prescription\bin\Debug\Simple prescription.pdb
+E:\Csharp\Form\Simple prescription\Simple prescription\obj\x86\Debug\Simple_prescription.Form1.resources
+E:\Csharp\Form\Simple prescription\Simple prescription\obj\x86\Debug\Simple_prescription.Properties.Resources.resources
+E:\Csharp\Form\Simple prescription\Simple prescription\obj\x86\Debug\Simple_prescription.Fee.resources
+E:\Csharp\Form\Simple prescription\Simple prescription\obj\x86\Debug\Simple prescription.csproj.ResolveComReference.cache
+E:\Csharp\Form\Simple prescription\Simple prescription\obj\x86\Debug\Simple_prescription.Splash_screen.resources
+E:\Csharp\Form\Simple prescription\Simple prescription\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Csharp\Form\Simple prescription\Simple prescription\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Csharp\Form\Simple prescription\Simple prescription\obj\x86\Debug\GenerateResource.write.1.tlog
